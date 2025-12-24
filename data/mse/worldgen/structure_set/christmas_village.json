@@ -1,0 +1,17 @@
+{
+  "structures": [
+    {
+      "structure": "mse:christmas_village",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 5,
+    "separation": 4,
+    "spread_type": "linear",
+    "salt": 187654321
+  }
+}
+
+
